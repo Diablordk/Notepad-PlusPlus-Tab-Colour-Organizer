@@ -16,7 +16,7 @@ tab colours. You can choose the order of all six groups:
 
 Tabs within each colour group retain their existing relative order.
 Each Notepad++ view is sorted independently.
-Orange and Pink look Red and Purple in darkmode but are still refered to as Pink and Orange in the code.
+Orange and Pink look Red and Purple in darkmode but are still referred to as Pink and Orange in the code.
 
 REQUIREMENTS
 ------------
