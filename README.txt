@@ -16,6 +16,7 @@ tab colours. You can choose the order of all six groups:
 
 Tabs within each colour group retain their existing relative order.
 Each Notepad++ view is sorted independently.
+Purple in darkmode but are still refered to as Pink and Orange in the code.
 
 REQUIREMENTS
 ------------
@@ -69,8 +70,7 @@ IMPORTANT
   modify document contents.
 - Back up important work and test on a small set of tabs before relying on it
   with a large working session.
-- Version 1.0.0 has not yet been independently tested on clean installations
-  or on both 32-bit and 64-bit Notepad++.
+- Version 1.0.0 has not yet been tested on 64-bit installations of Notepad++.
 
 TROUBLESHOOTING
 ---------------
